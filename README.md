@@ -26,17 +26,17 @@ Here's a snapshot of the key technologies I work with. My focus is on robust, sc
 -->
 
 **🧠 LLMs, RAG & Semantic Search:**
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch)](https://skillicons.dev)
+
 <p align="left">
   <!-- Replace with actual icons/badges -->
-  <span>[] Transformers</span>   
-  <span>[LangChain Icon] LangChain</span>   
-  <span>[OpenAI Icon] OpenAI API</span>   
-  <span>[LLaMA Icon] LLaMA</span>   
-  <span>[RAG Icon] RAG Systems</span>   
-  <span>[GraphRAG Icon] GraphRAG Concepts</span>   
-  <span>[SentenceTransformers Icon] SentenceTransformers</span>   
-  <span>[Haystack Icon] Haystack</span>
+  <span>LangChain</span>   
+  <span>LLMs (Llama, Mistral, Deepsek, Qwen)</span>   
+  <span>RAG Systems</span>   
+  <span>GraphRAG Concepts</span>   
+  <span>SentenceTransformers</span>   
+  <span>ChainForge</span>
 </p>
 
 **🗃️ Vector Databases:**
