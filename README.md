@@ -26,9 +26,10 @@ Here's a snapshot of the key technologies I work with. My focus is on robust, sc
 -->
 
 **🧠 LLMs, RAG & Semantic Search:**
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <p align="left">
   <!-- Replace with actual icons/badges -->
-  <span>[Transformers Icon] Transformers</span>   
+  <span>[] Transformers</span>   
   <span>[LangChain Icon] LangChain</span>   
   <span>[OpenAI Icon] OpenAI API</span>   
   <span>[LLaMA Icon] LLaMA</span>   
