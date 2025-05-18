@@ -20,86 +20,56 @@ I'm an **NLP & Machine Learning Engineer** passionate about building intelligent
 
 Here's a snapshot of the key technologies I work with. My focus is on robust, scalable, and cutting-edge solutions in NLP and MLOps.
 
-<!--
-  ✨ Tip: Replace the text like "[Python Icon]" with actual image tags or badges for a more visual appeal!
-  Example: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
--->
+**🧠 LLMs, RAG & Semantic Search**
+*   **LLM Frameworks & Libraries:** LangChain, Hugging Face Transformers, SentenceTransformers
+*   **LLM Models (Familiarity/Fine-tuning):** Llama, Mistral, DeepSeek, Qwen, BERT-family
+*   **Advanced Architectures & Concepts:** RAG (Retrieval-Augmented Generation), GraphRAG
+*   **Development & Experimentation:** ChainForge
 
-**🧠 LLMs, RAG & Semantic Search:**
+**🗃️ Vector Databases**
+*   Qdrant
+*   FAISS
+*   Weaviate
+*   ChromaDB
 
-[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch)](https://skillicons.dev)
+**📄 OCR & Document Processing**
+*   Tesseract OCR
+*   Mistral OCR (and other advanced OCR solutions)
+*   LayoutLM (and other Document AI models)
+*   PyMuPDF/Fitz
+*   PDFMiner
 
-<p align="left">
-  <!-- Replace with actual icons/badges -->
-  <span>LangChain</span>   
-  <span>LLMs (Llama, Mistral, Deepsek, Qwen)</span>   
-  <span>RAG Systems</span>   
-  <span>GraphRAG Concepts</span>   
-  <span>SentenceTransformers</span>   
-  <span>ChainForge</span>
-</p>
+**⚙️ MLOps & Deployment**
+*   Docker
+*   FastAPI
+*   AWS (S3, EC2, Lambda)
+*   MLflow
+*   Celery
+*   Redis
 
-**🗃️ Vector Databases:**
-<p align="left">
-  <!-- Replace with actual icons/badges -->
-  <span>[Qdrant Icon] Qdrant</span>   
-  <span>[FAISS Icon] FAISS</span>   
-  <span>[Weaviate Icon] Weaviate</span>   
-  <span>[ChromaDB Icon] ChromaDB</span>
-</p>
+**📖 Core NLP & Machine Learning**
+*   Python
+*   PyTorch
+*   TensorFlow
+*   Scikit-learn
+*   spaCy
+*   NLTK
+*   Pandas
+*   NumPy
 
-**📄 OCR & Document Processing:**
-<p align="left">
-  <!-- Replace with actual icons/badges -->
-  <span>[Tesseract Icon] Tesseract OCR</span>   
-  <span>[Mistral OCR Icon] Mistral OCR</span>   
-  <span>[LayoutLM Icon] LayoutLM</span>   
-  <span>[PyMuPDF Icon] PyMuPDF/Fitz</span>   
-  <span>[PDFMiner Icon] PDFMiner</span>
-</p>
+**📊 Data Visualization & UI**
+*   Streamlit
+*   Gradio
+*   Tableau
+*   Matplotlib
+*   Seaborn
 
-**⚙️ MLOps & Deployment:**
-<p align="left">
-  <!-- Replace with actual icons/badges -->
-  <span>[Docker Icon] Docker</span>   
-  <span>[FastAPI Icon] FastAPI</span>   
-  <span>[AWS Icon] AWS (S3, EC2, Lambda)</span>   
-  <span>[MLflow Icon] MLflow</span>   
-  <span>[Celery Icon] Celery</span>   
-  <span>[Redis Icon] Redis</span>
-</p>
-
-**📖 Core NLP & Machine Learning:**
-<p align="left">
-  <!-- Replace with actual icons/badges -->
-  <span>[Python Icon] Python</span>   
-  <span>[PyTorch Icon] PyTorch</span>   
-  <span>[Scikit-learn Icon] Scikit-learn</span>   
-  <span>[spaCy Icon] spaCy</span>   
-  <span>[NLTK Icon] NLTK</span>   
-  <span>[Pandas Icon] Pandas</span>   
-  <span>[NumPy Icon] NumPy</span>
-</p>
-
-**📊 Data Visualization & UI:**
-<p align="left">
-  <!-- Replace with actual icons/badges -->
-  <span>[Streamlit Icon] Streamlit</span>   
-  <span>[Gradio Icon] Gradio</span>   
-  <span>[Tableau Icon] Tableau</span>   
-  <span>[Matplotlib Icon] Matplotlib</span>   
-  <span>[Seaborn Icon] Seaborn</span>
-</p>
-
-**🌐 Web Scraping & Other Tools:**
-<p align="left">
-  <!-- Replace with actual icons/badges -->
-  <span>[Selenium Icon] Selenium</span>   
-  <span>[BeautifulSoup Icon] BeautifulSoup</span>   
-  <span>[Git Icon] Git & GitHub</span>   
-  <span>[SQL Icon] SQL</span>   
-  <span>[Linux Icon] Linux</span>
-</p>
+**🌐 Web Scraping & Other Tools**
+*   Selenium
+*   BeautifulSoup
+*   Git & GitHub
+*   SQL
+*   Linux
 
 ---
 
