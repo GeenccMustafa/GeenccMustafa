@@ -2,13 +2,13 @@
 
 <p align="center">
   <a href="https://geenccmustafa.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-blue?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Explore%20My%20Work-3670A0?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://www.linkedin.com/in/mustafageencc/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Mustafa%20Genc-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/Mustafa%20Genc-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://twitter.com/MustafaGenc94" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-@MustafaGenc94-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+    <img src="https://img.shields.io/badge/@MustafaGenc94-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
 </p>
 
