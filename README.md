@@ -1,146 +1,109 @@
-# Hi there, I'm Mustafa Genc 👋
+# Hi, I'm Mustafa Genc 👋
 
 <p align="center">
   <a href="https://geenccmustafa.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-GeenccMustafa-blue?style=for-the-badge&logo=github" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-blue?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio">
   </a>
-  <a href="YOUR_LINKEDIN_PROFILE_URL" target="_blank"> <!-- 👈 Replace with your LinkedIn URL -->
-    <img src="https://img.shields.io/badge/LinkedIn-Mustafa%20Genc-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/mustafageencc/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Mustafa%20Genc-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <!-- Add other social badges here if you like -->
+  <a href="https://twitter.com/MustafaGenc94" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-@MustafaGenc94-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
 </p>
 
-I'm a passionate **ML Engineer & NLP Expert** with a strong foundation in building impactful AI solutions. My work focuses on fine-tuning Large Language Models (LLMs), developing Retrieval-Augmented Generation (RAG) systems, and crafting solutions for document processing, semantic search, and more. I'm driven by transforming complex data into actionable insights and innovative applications.
+I'm an **NLP & Machine Learning Engineer** passionate about building intelligent systems and leveraging data to solve complex problems. My expertise lies in developing and deploying solutions involving Large Language Models, document understanding, and scalable AI.
 
 ---
 
-### 🚀 About Me
+### 🛠️ Core Tools & Technologies
 
-I am an ML Engineer with extensive experience in Natural Language Processing, machine learning, and document processing. My projects often involve:
-*   Fine-tuning LLMs (e.g., GPT-4, LLaMA 2, Deepseek, BERT) for diverse NLP tasks.
-*   Building robust RAG systems with vector databases (Qdrant/FAISS) for efficient document search and retrieval.
-*   Developing end-to-end document clustering pipelines, incorporating OCR and layout analysis.
-*   Designing and deploying scalable NLP microservices using FastAPI, Docker, and Streamlit.
-*   Implementing semantic similarity search and unsupervised document clustering.
-*   Creating advanced Named Entity Recognition (NER) models and OCR solutions for information extraction.
-*   Applying Explainable AI techniques to make model outputs transparent and accessible.
-*   My Master's thesis at the Technical University of Munich focused on "Enhancing Text Simplification through Baby-Step Curriculum Learning: A Case Study on Privacy Policies Using the T5 Model," showcasing my commitment to advancing NLP applications.
+Here's a snapshot of the key technologies I work with. My focus is on robust, scalable, and cutting-edge solutions in NLP and MLOps.
 
----
-
-### 🛠️ My Tech Stack
-
-Here's a curated list of tools and technologies I frequently use:
-
-**🔍 LLM Training & Fine-Tuning:**
-*   Transformers, SentenceTransformers, OpenAI, LangChain
-*   TRL, PEFT/QLoRA, DeepSeek-R1, CohereForAI/aya-vision-8b
-
-**⚡ LLM Inference & Optimization:**
-*   Groq LLM Inference Engine, CLIP Models, FastText, Gensim
-*   Mixedbread Tokenizers (German Language Processing)
-
-**🗃️ Vector Databases & Semantic Search:**
-*   Qdrant, FAISS, ChromaDB, Haystack, Weaviate, JinaAI
-
-**⚙️ Machine Learning & Experiment Tracking:**
-*   PyTorch, PyTorch Lightning, Scikit-learn
-*   MLFlow, DVC, ONNX
-
-**📝 OCR & Document Layout Analysis:**
-*   Mistral OCR, Tesseract, HURIDOCS/pdf-document-layout-analysis
-*   LayoutLMv3, PDFMiner, PyMuPDF, Textract, PaddleOCR
-
-**📖 NLP & Text Processing:**
-*   SpaCy, NLTK, Doccano
-
-**📊 Data Visualization:**
-*   Tableau, Matplotlib, Seaborn, Plotly
-
-**📐 Data Processing & Analysis:**
-*   Pandas, NumPy
-
-**🌐 Web Scraping & Automation:**
-*   BeautifulSoup, Selenium, Playwright, Scrapy
-
-**☁️ Cloud Infrastructure & Containers:**
-*   AWS (EC2, Lambda, S3), Docker
-
-**🚀 Backend & APIs:**
-*   FastAPI, Celery, Redis, Flower
-
-**💬 Conversational AI & UI:**
-*   Chainlit, Streamlit, Gradio
-
-**📂 Databases:**
-*   SQL, PostgreSQL, MongoDB
-
-**💻 System & Workflow:**
-*   Linux, Agile-Scrum
-
----
-
-### ✨ Featured Projects
-
-Here are a couple of projects from my portfolio. Check out [my full portfolio](https://geenccmustafa.github.io/) for more!
-
-*   📄 **Resume Job Matcher:** An application leveraging Streamlit, Tesseract OCR, LLMs (Gemini), Prefect, and Selenium to match resumes with job descriptions.
-    *   *Technologies: Streamlit, Tesseract OCR, LLM (Gemini), Prefect, Selenium*
-*   🗣️ **German Translator:** A tool built with Streamlit, MyMemory API, Ollama, and local Transformers TTS for German translation and text-to-speech.
-    *   *Technologies: Streamlit, MyMemory API, Ollama, Transformers, Python, Regex*
-*   💡 **Lorem Minds App:** A semantic search application utilizing vector databases and transformers.
-    *   *Technologies: Vector Databases, Transformers, Semantic Search*
-
-➡️ [**Explore all my projects on my Portfolio Website!**](https://geenccmustafa.github.io/)
-
----
-
-### 💼 Experience Snapshot
-
-*   **ML Engineer / NLP Expert** (2024 - Current)
-    *   Fine-tuning LLMs, developing RAG systems, building document clustering pipelines, deploying NLP microservices.
-*   **Data Scientist** (2022 - 2023)
-    *   Fine-tuned transformers, applied Explainable AI, created Tableau visualizations, performed web scraping, managed projects with GitLab/Confluence.
-*   **Data Scientist Intern** (2022)
-    *   Contributed to an AI-based persona project, fine-tuned models for text classification/emotion detection, benchmarked ML/DL models.
-
----
-
-### 🎓 Education
-
-*   **Master's Degree in Politics & Technology** - Technical University of Munich (2019-2023)
-    *   Specialization: Data Science and Machine Learning.
-    *   Thesis: *Enhancing Text Simplification through Baby-Step Curriculum Learning: A Case Study on Privacy Policies Using the T5 Model.*
-
----
-
-### 🌱 Volunteering & Mentorship
-
-*   **Volunteer Teaching:** Machine Learning at ReDI School, helping to bridge the gap in technology education.
-*   **Career Mentorship:** Offering one-on-one career guidance. Feel free to reach out!
-
----
-
-### 📊 My GitHub Stats
-
-<!-- 👇 IMPORTANT: Replace this section with your actual GitHub Stats Markdown from Anurag Hazra's tool -->
-<!-- Example: (Make sure to use your GitHub username)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GeenccMustafa&show_icons=true&theme=radical" alt="Mustafa's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeenccMustafa&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
+<!--
+  ✨ Tip: Replace the text like "[Python Icon]" with actual image tags or badges for a more visual appeal!
+  Example: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 -->
-<p align="center">
-  <em>📊 Add your GitHub stats here! Visit <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Readme Stats</a> to generate yours. 📊</em>
+
+**🧠 LLMs, RAG & Semantic Search:**
+<p align="left">
+  <!-- Replace with actual icons/badges -->
+  <span>[Transformers Icon] Transformers</span>   
+  <span>[LangChain Icon] LangChain</span>   
+  <span>[OpenAI Icon] OpenAI API</span>   
+  <span>[LLaMA Icon] LLaMA</span>   
+  <span>[RAG Icon] RAG Systems</span>   
+  <span>[GraphRAG Icon] GraphRAG Concepts</span>   
+  <span>[SentenceTransformers Icon] SentenceTransformers</span>   
+  <span>[Haystack Icon] Haystack</span>
+</p>
+
+**🗃️ Vector Databases:**
+<p align="left">
+  <!-- Replace with actual icons/badges -->
+  <span>[Qdrant Icon] Qdrant</span>   
+  <span>[FAISS Icon] FAISS</span>   
+  <span>[Weaviate Icon] Weaviate</span>   
+  <span>[ChromaDB Icon] ChromaDB</span>
+</p>
+
+**📄 OCR & Document Processing:**
+<p align="left">
+  <!-- Replace with actual icons/badges -->
+  <span>[Tesseract Icon] Tesseract OCR</span>   
+  <span>[Mistral OCR Icon] Mistral OCR</span>   
+  <span>[LayoutLM Icon] LayoutLM</span>   
+  <span>[PyMuPDF Icon] PyMuPDF/Fitz</span>   
+  <span>[PDFMiner Icon] PDFMiner</span>
+</p>
+
+**⚙️ MLOps & Deployment:**
+<p align="left">
+  <!-- Replace with actual icons/badges -->
+  <span>[Docker Icon] Docker</span>   
+  <span>[FastAPI Icon] FastAPI</span>   
+  <span>[AWS Icon] AWS (S3, EC2, Lambda)</span>   
+  <span>[MLflow Icon] MLflow</span>   
+  <span>[Celery Icon] Celery</span>   
+  <span>[Redis Icon] Redis</span>
+</p>
+
+**📖 Core NLP & Machine Learning:**
+<p align="left">
+  <!-- Replace with actual icons/badges -->
+  <span>[Python Icon] Python</span>   
+  <span>[PyTorch Icon] PyTorch</span>   
+  <span>[Scikit-learn Icon] Scikit-learn</span>   
+  <span>[spaCy Icon] spaCy</span>   
+  <span>[NLTK Icon] NLTK</span>   
+  <span>[Pandas Icon] Pandas</span>   
+  <span>[NumPy Icon] NumPy</span>
+</p>
+
+**📊 Data Visualization & UI:**
+<p align="left">
+  <!-- Replace with actual icons/badges -->
+  <span>[Streamlit Icon] Streamlit</span>   
+  <span>[Gradio Icon] Gradio</span>   
+  <span>[Tableau Icon] Tableau</span>   
+  <span>[Matplotlib Icon] Matplotlib</span>   
+  <span>[Seaborn Icon] Seaborn</span>
+</p>
+
+**🌐 Web Scraping & Other Tools:**
+<p align="left">
+  <!-- Replace with actual icons/badges -->
+  <span>[Selenium Icon] Selenium</span>   
+  <span>[BeautifulSoup Icon] BeautifulSoup</span>   
+  <span>[Git Icon] Git & GitHub</span>   
+  <span>[SQL Icon] SQL</span>   
+  <span>[Linux Icon] Linux</span>
 </p>
 
 ---
 
-### 📫 Let's Connect!
+### 🚀 Explore More
 
-Thank you for visiting my profile! I'm always open to discussing new projects, collaborations, or just chatting about the latest in AI and NLP.
-
-*   **Portfolio:** [geenccmustafa.github.io](https://geenccmustafa.github.io/)
-*   **Email:** [mustafa.gencc94@gmail.com](mailto:mustafa.gencc94@gmail.com)
-*   **LinkedIn:** [YOUR_LINKEDIN_PROFILE_URL](YOUR_LINKEDIN_PROFILE_URL) <!-- 👈 Replace with your LinkedIn URL -->
-<!-- Add other ways to connect here, e.g., Twitter, etc. -->
+*   **Portfolio:** Dive deeper into my projects at [geenccmustafa.github.io](https://geenccmustafa.github.io/)
+*   **LinkedIn:** Connect with me on [LinkedIn](https://www.linkedin.com/in/mustafageencc/)
+*   **Email:** Feel free to reach out at [mustafa.gencc94@gmail.com](mailto:mustafa.gencc94@gmail.com)
