@@ -10,6 +10,9 @@
   <a href="https://www.youtube.com/@mustafagenc-2025" target="_blank">
     <img src="https://img.shields.io/badge/@MustafaGenc94-1DA1F2?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
+  <a href="https://medium.com/@mustafa.gencc94" target="_blank">
+    <img src="https://img.shields.io/badge/@MustafaGenc94-1DA1F2?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+  </a>
 </p>
 
 I'm an **NLP & Machine Learning Engineer** passionate about building intelligent systems and leveraging data to solve complex problems. My expertise lies in developing and deploying solutions involving Large Language Models, document understanding, and scalable AI.
