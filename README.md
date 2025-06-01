@@ -7,8 +7,8 @@
   <a href="https://www.linkedin.com/in/mustafageencc/" target="_blank">
     <img src="https://img.shields.io/badge/Mustafa%20Genc-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/MustafaGenc94" target="_blank">
-    <img src="https://img.shields.io/badge/@MustafaGenc94-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  <a href="https://www.youtube.com/@mustafagenc-2025" target="_blank">
+    <img src="https://img.shields.io/badge/@MustafaGenc94-1DA1F2?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
 </p>
 
