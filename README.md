@@ -8,10 +8,10 @@
     <img src="https://img.shields.io/badge/Mustafa%20Genc-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://www.youtube.com/@mustafagenc-2025" target="_blank">
-    <img src="https://img.shields.io/badge/@MustafaGenc94-1DA1F2?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+    <img src="https://img.shields.io/badge/@mustafagenc--2025-1DA1F2?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
   <a href="https://medium.com/@mustafa.gencc94" target="_blank">
-    <img src="https://img.shields.io/badge/@MustafaGenc94-1DA1F2?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+    <img src="https://img.shields.io/badge/@mustafa.gencc94-1DA1F2?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
   </a>
 </p>
 
