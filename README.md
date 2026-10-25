@@ -22,7 +22,7 @@ A big part of my work is **document intelligence**: end-to-end pipelines that tu
 
 ### 🤖 What I work on
 
-- **Agent architecture & orchestration:** multi-step LLM agents, tool calling, memory, query-to-agent routing, LangGraph state machines
+- **Agent architecture & orchestration:** multi-step LLM agents, tool calling, memory, query-to-agent routing, stateful agentic workflows
 - **Agent-ready retrieval:** production RAG (OCR → layout analysis → semantic chunking → hybrid search → reranking), GraphRAG; **+20% F1** in extraction accuracy through eval-driven optimisation
 - **Evaluation first:** Ragas, DeepEval and ChainForge benchmarks, A/B testing, guardrails, and cost/latency trade-offs
 - **Prototype → production:** containerised AI services (Docker, FastAPI), CI/CD, MLflow, local and cloud LLM APIs
