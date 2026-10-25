@@ -22,10 +22,11 @@ A big part of my work is **document intelligence**: end-to-end pipelines that tu
 
 ### 🤖 What I work on
 
-- **Agent architecture & orchestration:** multi-step LLM agents, tool calling, memory, query-to-agent routing, stateful agentic workflows
+- **Agentic workflows:** coding and document-processing agents with tool calling, structured outputs, automated verification and stateful orchestration
 - **Agent-ready retrieval:** production RAG (OCR → layout analysis → semantic chunking → hybrid search → reranking), GraphRAG; **+20% F1** in extraction accuracy through eval-driven optimisation
-- **Evaluation first:** Ragas, DeepEval and ChainForge benchmarks, A/B testing, guardrails, and cost/latency trade-offs
-- **Prototype → production:** containerised AI services (Docker, FastAPI), CI/CD, MLflow, local and cloud LLM APIs
+- **Document AI & OCR:** ingestion, OCR and layout analysis, embeddings and structured extraction from scanned documents; processing time cut from days to hours
+- **Evaluation & guardrails:** reproducible harnesses (Langfuse, DeepEval), A/B benchmarking, prompt-injection mitigation, output validation, GDPR-aware data handling
+- **Prototype → production:** containerised microservices on self-hosted and cloud GPUs (Docker, FastAPI, Celery/Redis, vLLM, MLflow, CI/CD), monitored for quality, latency and cost
 - **Fine-tuning:** PEFT / QLoRA with TRL for domain-specific document intelligence, benchmarked against proprietary APIs
 
 ---
@@ -34,12 +35,11 @@ A big part of my work is **document intelligence**: end-to-end pipelines that tu
 
 | Project | What it does |
 |---|---|
-| [**agent-router**](https://github.com/GeenccMustafa/agent-router) | Query-to-agent routing service with an evaluation pipeline |
+| [**bundestag-lakehouse**](https://github.com/GeenccMustafa/bundestag-lakehouse) 🚧 | End-to-end data platform on the Bundestag open-data API: Bronze → Silver → Gold star schema with dbt, DuckDB and Airflow (in progress) |
 | [**graph-versus-vector**](https://github.com/GeenccMustafa/graph-versus-vector) | GraphRAG (Neo4j knowledge graph) vs. vector RAG on multi-hop QA |
 | [**llm-cache-lab**](https://github.com/GeenccMustafa/llm-cache-lab) | Measures prompt/KV caching: cost, TTFT latency and memory, with cold-vs-warm experiments on local Ollama |
 | [**llm-guardrails-benchmark**](https://github.com/GeenccMustafa/llm-guardrails-benchmark) | Benchmarks NeMo Guardrails, Guardrails AI and LlamaGuard on safety, compliance and format adherence |
 | [**literary-graphrag-ollama**](https://github.com/GeenccMustafa/literary-graphrag-ollama) | Local GraphRAG with Ollama; no data leaves the host |
-| [**bundestag-lakehouse**](https://github.com/GeenccMustafa/bundestag-lakehouse) | Bronze → Silver → Gold lakehouse on the Bundestag DIP API (dbt, DuckDB, Airflow, MinIO) |
 
 ---
 
@@ -92,10 +92,12 @@ Mistral OCR · Docling · LayoutLMv3 · PaddleOCR · PyMuPDF · Textract
 
 I write practitioner-focused deep-dives on [Medium](https://medium.com/@mustafa.gencc94):
 
-- **Transformers & LLMs**, a 13-part series on attention, training and internals
+- *I Deployed Local LLMs in Production for a Year* (Parts 1 & 2)
 - *Ollama vs vLLM: A Comprehensive Guide to Local LLM Serving*
+- *PaddleOCR-VL 1.5: A Deep Dive into the 0.9B Model That Outperforms GPT-4o on Document Parsing*
 - *The Architecture of Deception: How RAG Systems Lie to You in Production*
-- LLM agent architecture deep-dives, a GraphRAG implementation guide, and OCR benchmarks (Mistral OCR vs. Chandra OCR vs. GLM-OCR)
+- *Graphify: Build a Knowledge Graph From Your Entire Codebase Without Sending Your Code to Anyone*
+- **Transformers & LLMs**, a 13-part series on attention, training and internals
 
 ---
 
