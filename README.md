@@ -16,7 +16,7 @@ As a **Machine Learning Engineer**, I take agents and **agentic workflows from p
 
 A big part of my work is **document intelligence**: end-to-end pipelines that turn unstructured documents into structured, queryable knowledge. These pipelines cover OCR, layout analysis, semantic chunking, LLM-based extraction and retrieval. I work with both open-weight and proprietary LLMs, choosing and tuning models for accuracy, latency and cost.
 
-📍 Augsburg, Germany · 🎓 M.Sc. @ Technical University of Munich (NLP & Data Science)
+📍 Augsburg, Germany · 🎓 M.Sc. @ Technical University of Munich
 
 ---
 
