@@ -12,7 +12,9 @@
 
 I build **production LLM agent systems**: multi-step agents with tool use, memory and reasoning, backed by retrieval pipelines and measured with proper evaluation.
 
-Currently **Machine Learning Engineer @ DEMOS plan GmbH**, where I design AI agent ecosystems with LangChain & LangGraph and co-designed a **national AI agent architecture** together with Aleph Alpha, Mistral, Capgemini and Fraunhofer-Gesellschaft.
+As a **Machine Learning Engineer**, I take agents and **agentic workflows from prototype to production**. I design and ship multi-agent systems with LangChain & LangGraph, containerise them as scalable services, and run them in production with CI/CD, monitoring and evaluation built in.
+
+A big part of my work is **document intelligence**: end-to-end pipelines that turn unstructured documents into structured, queryable knowledge. These pipelines cover OCR, layout analysis, semantic chunking, LLM-based extraction and retrieval. I work with both open-weight and proprietary LLMs, choosing and tuning models for accuracy, latency and cost.
 
 📍 Augsburg, Germany · 🎓 M.Sc. @ Technical University of Munich (NLP & Data Science)
 
